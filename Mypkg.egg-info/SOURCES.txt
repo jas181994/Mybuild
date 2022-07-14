@@ -1,0 +1,9 @@
+setup.py
+Mypkg/__init__.py
+Mypkg/functions.py
+Mypkg/greet.py
+Mypkg.egg-info/PKG-INFO
+Mypkg.egg-info/SOURCES.txt
+Mypkg.egg-info/dependency_links.txt
+Mypkg.egg-info/top_level.txt
+Mypkg.egg-info/zip-safe
